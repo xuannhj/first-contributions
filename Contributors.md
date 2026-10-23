@@ -7222,6 +7222,7 @@ Jd
 - [Fabio Pugno](https://github.com/FabioPugno21)
 - [Yash Jawale] - My first open-source contribution!
 - [Pritika Khandelwal](https://github.com/pritikakhandelwal)
+- [Xuan Nhi](https://github.com/)
 - [Vinamra Semwal](https://github.com/Vinni1707)
 [Mohammed Rehan](https://github.com/mohammedrehan27)
 - [Muntazir](https://github.com/muntazirl)
